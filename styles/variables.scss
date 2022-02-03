@@ -1,0 +1,9 @@
+$primary-color: #adadad;
+$error-color: rgb(231, 31, 31);
+$accent-color: #ffa500;
+
+:export {
+  primaryColor: $primary-color;
+  errorColor: $error-color;
+  accentColor: $accent-color;
+}
